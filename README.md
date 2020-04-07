@@ -9,7 +9,7 @@
 - 레인보우 식스 시즈 서버를 간편하게 바꿀 수 있습니다
 
 ## Screenshot
-![Screenshot-1](/assets/Screenshot-1.jpg)
+![Screenshot-1](/assets/Screenshot-1.png)
 
 ## License
 MIT License
